@@ -61,24 +61,22 @@ h3 { font-size: 1.15rem; }
   font-weight: 700;
 }
 
-.brand-mark,
-.profile-badge {
+.brand-photo {
   width: 42px;
   height: 42px;
-  display: grid;
-  place-items: center;
+  object-fit: cover;
   border-radius: 14px;
-  background: linear-gradient(135deg, var(--blue), #5cd6ff);
-  color: white;
-  font-weight: 800;
+  border: 1px solid var(--line);
 }
 
-.profile-badge {
+.profile-photo {
   width: 76px;
   height: 76px;
+  object-fit: cover;
   border-radius: 22px;
   margin-bottom: 18px;
-  font-size: 1.3rem;
+  border: 1px solid var(--line);
+  display: block;
 }
 
 .nav {
