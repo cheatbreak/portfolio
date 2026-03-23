@@ -1,0 +1,26 @@
+Artem Basko
+Toronto, ON
+artembaskoca@gmail.com
++1 (437) 663-8450
+https://github.com/cheatbreak
+https://www.linkedin.com/in/artembasko
+
+[Date]
+
+Hiring Manager
+[Company Name]
+[Company Address]
+
+Dear Hiring Manager,
+
+I am writing to express my interest in the Junior Software Developer position at [Company Name]. I am currently studying Computer Programming and Analysis at George Brown College, where I have been strengthening my skills in software development, database systems, and practical problem solving through academic and applied projects.
+
+My experience includes building projects such as a browser-based Gomoku game with AI logic, a cloud-hosted inventory management system using ASP.NET MVC, Azure, and PostgreSQL, and contributing to collaborative project planning and technical design through my capstone work. These experiences have helped me develop a strong foundation in programming, collaboration, and delivering functional solutions.
+
+I am especially motivated by opportunities where I can continue to grow as a developer, contribute to a team, and improve systems through thoughtful execution and continuous learning. I bring a disciplined mindset, a willingness to communicate professionally, and a genuine interest in building reliable software.
+
+Thank you for your time and consideration. I would welcome the opportunity to discuss how I can contribute to your team.
+
+Sincerely,
+
+Artem Basko
